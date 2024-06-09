@@ -1,7 +1,6 @@
 - 👋 Hi, I’m RedCraftre/Nicolas
 - 👀 I’m interested in Conding,MC-Coding, Java script
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PAP,Pyphon
 - 📫 How to reach me YT @RedCrafter738
 - 😄 Pronouns: Crafti,RedCrafter
 - ⚡ Fun fact: i am silly and dump :)
