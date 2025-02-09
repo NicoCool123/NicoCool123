@@ -1,6 +1,5 @@
 - 👋 Hi, I’m RedCraftre/Nicolas
-- 👀 I’m interested in Conding,MC-Coding, Java script
-- 🌱 I’m currently learning PAP,Pyphon
+- 👀 I’m interested in Conding,MC-Coding, Java script, Python
 - 📫 How to reach me YT @RedCrafter738
 - 😄 Pronouns: Crafti,RedCrafter
 - ⚡ Fun fact: i am silly and dump :)
