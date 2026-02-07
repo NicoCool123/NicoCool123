@@ -1,23 +1,23 @@
 <img align="right" width="180" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 # Hi, I'm Nicolas aka redcm ☕  
-Backend Developer · Java · Kotlin · Minecraft Plugins
+Minecraft Developer • Backend • Java & Python
 
-[![Mail](https://img.shields.io/badge/Email-proton.me-blue)](mailto:you@example.com)
-[![Website](https://img.shields.io/badge/Website-online-green)](https://example.com)
-[![Discord](https://img.shields.io/badge/Discord-redcm-5865F2)](#)
+[![Website](https://img.shields.io/badge/Website-redcrafteryt11.net-blue)](https://redcrafteryt11.net)
+[![Discord](https://img.shields.io/badge/Discord-@redcrafter738-5865F2)](https://discord.com/users/DEINEID)
+[![Store](https://img.shields.io/badge/Store-store.redcrafteryt11.net-orange)](https://store.redcrafteryt11.net)
 
 ---
 
-## 🐾 A little more about me…
+## 🧩 About me
 
 ```kotlin
-val dev = Developer(
+val me = Developer(
+    name = "Nicolas",
+    alias = "redcm",
     pronouns = "he/him",
-    age = 13,
-    languages = listOf("Java", "Kotlin", "Python"),
-    backend = listOf("Docker", "PostgreSQL", "Redis"),
-    minecraftDev = listOf("Paper", "Folia", "Velocity", "Spigot"),
-    tools = listOf("Git", "Maven", "Gradle", "Linux"),
-    currentFocus = "Building Minecraft plugins & backend services"
+    languages = listOf("Java", "Python", "HTML/CSS"),
+    minecraft = listOf("Paper", "Folia", "Velocity", "Waterfall"),
+    backend = listOf("Docker", "Linux", "PostgreSQL", "Redis"),
+    currentFocus = "Building MC plugins & backend systems"
 )
