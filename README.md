@@ -1,4 +1,4 @@
-<img align="right" width="180" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
 
 # Hi, I'm Nicolas aka redcm ☕  
 Minecraft Developer • Backend • Java & Python
@@ -14,9 +14,9 @@ Minecraft Developer • Backend • Java & Python
 ```kotlin
 val me = Developer(
     name = "Nicolas",
-    alias = "redcm",
+    alias = "Redxm",
     pronouns = "he/him",
-    languages = listOf("Java", "Python", "HTML/CSS"),
+    languages = listOf("Java", "Python"),
     minecraft = listOf("Paper", "Folia", "Velocity", "Waterfall"),
     backend = listOf("Docker", "Linux", "PostgreSQL", "Redis"),
     currentFocus = "Building MC plugins & backend systems"
